@@ -1,0 +1,5 @@
+# This file contains environment variables used by the backend application.
+# It should not be committed to source control, as it may contain sensitive information.
+# Instead, use environment variables or a secrets management service to provide these values at runtime.
+
+JWT_SECRET = "123456"
